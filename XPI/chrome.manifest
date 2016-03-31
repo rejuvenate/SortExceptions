@@ -1,0 +1,3 @@
+content sortexceptions jar:chrome/sortexceptions.jar!/chrome/content/
+overlay 	chrome://browser/content/preferences/permissions.xul chrome://sortexceptions/content/sortexceptions.xul
+locale sortexceptions en-US jar:chrome/sortexceptions.jar!/chrome/locale/en-US/
